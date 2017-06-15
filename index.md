@@ -1,7 +1,7 @@
 ---
-title       : hello
-subtitle    : 
-author      : 
+title       : Tme Warp enabled Age guessing Web App
+subtitle    : Have a computer guess your age from different points in time!
+author      : Joseph Christopher Lavell
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -11,13 +11,15 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Have you ever wanted to:
 
-This is a test!
+> Have a computer guess your age?
+> Have a computer guess your age as if it were a different day? (Perhaps when 
+you were younger)
 
 --- .class #id 
 
-## Slide 2
+## Now you can!
 
 
 
