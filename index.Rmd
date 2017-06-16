@@ -28,6 +28,7 @@ Just got to https://clavell.shinyapps.io/age_guesser_with_time_warp_feature/
 ## You will be amazed
 
 ```{r, echo=FALSE}
+set.seed(123434)
         amazement <- data.frame(visited.site = sample(c("yes","no"),100,replace =TRUE),
                    were.amazed = sample(c("yes", "no"),100,replace =TRUE))
         plot(amazement)
