@@ -13,8 +13,8 @@ knit        : slidify::knit2slides
 
 ## Have you ever wanted to:
 
-Have a computer guess your age?
-Have a computer guess your age as if it were a different day? (Perhaps when 
+> 1. Have a computer guess your age?
+> 2. Have a computer guess your age as if it were a different day? (Perhaps when 
 you were younger)
 
 --- .class #id 
@@ -25,8 +25,10 @@ Just got to https://clavell.shinyapps.io/age_guesser_with_time_warp_feature/
 
 ---
 
-##You will be amazed
+## You will be amazed
+
 ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
+
 More than likely
 
 ---
